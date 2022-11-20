@@ -1,0 +1,31 @@
+var billers = [
+      "Select Biller",
+      "Abuja Electricity Distribution Company (AEDC)",
+      "Benin Disco",
+      "Eco-Electricity (EKEDC)",
+      "Enugu Disco Electricity",
+      "Ibadan-Electricity (IBEDC)",
+      "Ikeja-Electricity (IKEDC)",
+      // "Jos-Electricity (JEDplc)",
+      // "Kaduna-Electricity (KAEDCO)",
+      "Kano-Electricity (KEDCO)",
+      "Portharcourt-Electricity (PHED)",
+      // "Yola Disco"
+    ],
+    waterBillers = [
+      "Select Biller",
+      "Waterboard A",
+      "Waterboard B",
+      "Waterboard C",
+      "Waterboard D",
+    ],
+    solarBillers = [
+      "Select Biller",
+      "Solar A",
+      "Solar B",
+      "Solar C",
+      "Solar D",
+    ],
+    cableTV = ["Select Biller", "DSTV", "GoTV", "Startimes"],
+    networks = ["Select Network", "MTN", "GLO", "AIRTEL", "9MOBILE"],
+    meterTypes = ["Select Meter Type", "Prepaid", "Postpaid"];
